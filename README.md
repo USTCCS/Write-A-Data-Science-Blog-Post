@@ -27,7 +27,7 @@ The notebook available here showcases work related to the above questions.
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here]().
+The main findings of the code can be found at the post available [here](https://medium.com/@realYinChen/as-a-programmer-how-to-get-higher-salary-c4851a56c3f9).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
